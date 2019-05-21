@@ -3,5 +3,5 @@
 
 具体的细节后面再说......
 
-先放张图![主界面](images\main.png)
+先放张图![主界面](/images/main.png)
 
