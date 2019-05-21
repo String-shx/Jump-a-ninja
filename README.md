@@ -3,4 +3,5 @@
 
 具体的细节后面再说......
 
-先放张图![主界面](C:\Users\Administrator\Desktop\Task\Jump-a-ninja\images\main.png)
+先放张图![主界面](images\main.png)
+
