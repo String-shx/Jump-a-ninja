@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 14 17:00:49 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=game.jar
+manifest.mergeall=true
+manifest.mainclass=case01.Test
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
